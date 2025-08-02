@@ -1,0 +1,81 @@
+From 5229361334ce0b84b9ef283df50a8adb71faba2a Mon Sep 17 00:00:00 2001
+From: Kalki2898AD <rishikeshvarma9854@gmail.com>
+Date: Sat, 2 Aug 2025 10:23:42 +0530
+Subject: [PATCH] changes
+
+---
+ 0001-platform-added.patch      |  20 ++++++++++++++++++++
+ {sprites => spirit}/base.png   | Bin
+ {sprites => spirit}/bg.png     | Bin
+ {sprites => spirit}/bird.png   | Bin
+ {sprites => spirit}/enemy.png  | Bin
+ {sprites => spirit}/ground.png | Bin
+ {sprites => spirit}/wood1.png  | Bin
+ {sprites => spirit}/wood2.png  | Bin
+ 8 files changed, 20 insertions(+)
+ create mode 100644 0001-platform-added.patch
+ rename {sprites => spirit}/base.png (100%)
+ rename {sprites => spirit}/bg.png (100%)
+ rename {sprites => spirit}/bird.png (100%)
+ rename {sprites => spirit}/enemy.png (100%)
+ rename {sprites => spirit}/ground.png (100%)
+ rename {sprites => spirit}/wood1.png (100%)
+ rename {sprites => spirit}/wood2.png (100%)
+
+diff --git a/0001-platform-added.patch b/0001-platform-added.patch
+new file mode 100644
+index 0000000..b431c2d
+--- /dev/null
++++ b/0001-platform-added.patch
+@@ -0,0 +1,20 @@
++From b51c441b943bad546549aceda97dab6b2fd492a6 Mon Sep 17 00:00:00 2001
++From: Vineel12 <vineelyerubandi12@gmail.com>
++Date: Sun, 8 Nov 2020 19:37:37 +0530
++Subject: [PATCH] platform added
++
++---
++ README.md | 1 +
++ 1 file changed, 1 insertion(+)
++
++diff --git a/README.md b/README.md
++index a687c24..3e0e50d 100644
++--- a/README.md
+++++ b/README.md
++@@ -1,2 +1,3 @@
++ # angryBirdsStage2.5
++ Angry Birds stage 2.5 with Class Inheritance and Images
+++added platform to create slingshot
++-- 
++2.50.1.windows.1
++
+diff --git a/sprites/base.png b/spirit/base.png
+similarity index 100%
+rename from sprites/base.png
+rename to spirit/base.png
+diff --git a/sprites/bg.png b/spirit/bg.png
+similarity index 100%
+rename from sprites/bg.png
+rename to spirit/bg.png
+diff --git a/sprites/bird.png b/spirit/bird.png
+similarity index 100%
+rename from sprites/bird.png
+rename to spirit/bird.png
+diff --git a/sprites/enemy.png b/spirit/enemy.png
+similarity index 100%
+rename from sprites/enemy.png
+rename to spirit/enemy.png
+diff --git a/sprites/ground.png b/spirit/ground.png
+similarity index 100%
+rename from sprites/ground.png
+rename to spirit/ground.png
+diff --git a/sprites/wood1.png b/spirit/wood1.png
+similarity index 100%
+rename from sprites/wood1.png
+rename to spirit/wood1.png
+diff --git a/sprites/wood2.png b/spirit/wood2.png
+similarity index 100%
+rename from sprites/wood2.png
+rename to spirit/wood2.png
+-- 
+2.50.1.windows.1
+
