@@ -1,0 +1,20 @@
+From b51c441b943bad546549aceda97dab6b2fd492a6 Mon Sep 17 00:00:00 2001
+From: Vineel12 <vineelyerubandi12@gmail.com>
+Date: Sun, 8 Nov 2020 19:37:37 +0530
+Subject: [PATCH] platform added
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+index a687c24..3e0e50d 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,3 @@
+ # angryBirdsStage2.5
+ Angry Birds stage 2.5 with Class Inheritance and Images
++added platform to create slingshot
+-- 
+2.50.1.windows.1
+
